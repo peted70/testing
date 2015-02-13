@@ -18,7 +18,7 @@ namespace WebApplication.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "making conflict 1";
+            return "making conflict 1 and merging with 2";
         }
 
         // POST api/values
