@@ -29,6 +29,7 @@ namespace WebApplication.Controllers
         // PUT api/values/5
         public void Put(int id, [FromBody]string value)
         {
+            // Non-conflicting change 2
         }
 
         // DELETE api/values/5
